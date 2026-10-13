@@ -18,7 +18,7 @@ npx serve .
 
 ## Onde editar
 
-- **WhatsApp**: procure por `5511961947136` em `index.html` e substitua em todas as ocorrências.
+- **WhatsApp**: procure por `5511944440305` em `index.html` e substitua em todas as ocorrências.
 - **Endereço, Instagram e CNPJ**: seções "Contato" e rodapé de `index.html`, além do bloco `application/ld+json` no `<head>`.
 - **CRO**: há um comentário no rodapé de `index.html` indicando onde incluir o número de inscrição.
 - **Tratamentos**: cada item é um `<li class="treat">` na seção "Tratamentos".
